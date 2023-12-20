@@ -1,4 +1,5 @@
-#Refactoring a code
+# Refactoring a code
+
 We refactor the code of NyAndoMayah main.js of this [rice cooker cli](https://github.com/hei-school/cc-d4-rice-cooker-ci-NyAndoMayah/tree/feat/js) write in javascript and look the complexity of the code after the refactor
 
 ### Original Code
